@@ -475,7 +475,8 @@ DEPENDENCIES:
   - SimulatorStatusMagic
   - Starscream (= 3.0.6)
   - SVProgressHUD (= 2.2.5)
-  - WordPress-Editor-iOS (~> 1.17.1)
+  - WordPress-Aztec-iOS (from `../AztecEditor-iOS`)
+  - WordPress-Editor-iOS (from `../AztecEditor-iOS`)
   - WordPressAuthenticator (~> 1.12.0)
   - WordPressKit (~> 4.7.0)
   - WordPressMocks (~> 0.0.8)
@@ -521,8 +522,6 @@ SPEC REPOS:
     - SVProgressHUD
     - TOCropViewController
     - UIDeviceIdentifier
-    - WordPress-Aztec-iOS
-    - WordPress-Editor-iOS
     - WordPressAuthenticator
     - WordPressKit
     - WordPressMocks
@@ -609,6 +608,10 @@ EXTERNAL SOURCES:
   RNTAztecView:
     :git: http://github.com/wordpress-mobile/gutenberg-mobile/
     :tag: v1.25.0
+  WordPress-Aztec-iOS:
+    :path: "../AztecEditor-iOS"
+  WordPress-Editor-iOS:
+    :path: "../AztecEditor-iOS"
   Yoga:
     :podspec: https://raw.githubusercontent.com/wordpress-mobile/gutenberg-mobile/v1.25.0/react-native-gutenberg-bridge/third-party-podspecs/Yoga.podspec.json
 
@@ -709,6 +712,6 @@ SPEC CHECKSUMS:
   ZendeskSupportSDK: a87ab1e4badace92c75eb11dc77ede1e995b2adc
   ZIPFoundation: 249fa8890597086cd536bb2df5c9804d84e122b0
 
-PODFILE CHECKSUM: 0686708ae420e1e60b9eb397c6ca36e04241a8c6
+PODFILE CHECKSUM: 81e36d2349210cd7856aad2afd91ba310a8dabcd
 
 COCOAPODS: 1.8.4
