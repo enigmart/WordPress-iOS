@@ -11331,7 +11331,7 @@
 				"${PODS_ROOT}/FormatterKit/FormatterKit/FormatterKit.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/Gridicons/Gridicons.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPress-Aztec-iOS/WordPress-Aztec-iOS.bundle",
-				"${PODS_ROOT}/../../AztecEditor-iOS/WordPressEditor/WordPressEditor/Assets/aztec.png",
+				"${PODS_ROOT}/WordPress-Editor-iOS/WordPressEditor/WordPressEditor/Assets/aztec.png",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressShared/WordPressShared.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressUI/WordPressUIResources.bundle",
 			);
@@ -11370,7 +11370,7 @@
 				"${PODS_CONFIGURATION_BUILD_DIR}/TOCropViewController/TOCropViewControllerBundle.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WPMediaPicker/WPMediaPicker.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPress-Aztec-iOS/WordPress-Aztec-iOS.bundle",
-				"${PODS_ROOT}/../../AztecEditor-iOS/WordPressEditor/WordPressEditor/Assets/aztec.png",
+				"${PODS_ROOT}/WordPress-Editor-iOS/WordPressEditor/WordPressEditor/Assets/aztec.png",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressAuthenticator/WordPressAuthenticatorResources.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressShared/WordPressShared.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressUI/WordPressUIResources.bundle",
@@ -11427,7 +11427,7 @@
 				"${PODS_ROOT}/FormatterKit/FormatterKit/FormatterKit.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/Gridicons/Gridicons.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPress-Aztec-iOS/WordPress-Aztec-iOS.bundle",
-				"${PODS_ROOT}/../../AztecEditor-iOS/WordPressEditor/WordPressEditor/Assets/aztec.png",
+				"${PODS_ROOT}/WordPress-Editor-iOS/WordPressEditor/WordPressEditor/Assets/aztec.png",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressShared/WordPressShared.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/WordPressUI/WordPressUIResources.bundle",
 			);
