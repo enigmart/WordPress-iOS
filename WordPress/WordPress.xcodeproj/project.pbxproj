@@ -5422,7 +5422,7 @@
 			path = Networking;
 			sourceTree = "<group>";
 		};
-		29B97314FDCFA39411CA2CEA = {
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
 				98D31BBF239720E4009CFF43 /* MainInterface.storyboard */,
@@ -10152,10 +10152,10 @@
 		FF2EC3BE2209A105006176E1 /* Processors */ = {
 			isa = PBXGroup;
 			children = (
+				FF9C81C32375BA8100DC4B2F /* GutenbergBlockProcessor.swift */,
 				FF2EC3BF2209A144006176E1 /* GutenbergImgUploadProcessor.swift */,
 				FF1B11E4238FDFE70038B93E /* GutenbergGalleryUploadProcessor.swift */,
 				91138454228373EB00FB02B7 /* GutenbergVideoUploadProcessor.swift */,
-				FF9C81C32375BA8100DC4B2F /* GutenbergBlockProcessor.swift */,
 				4629E4202440C5B20002E15C /* GutenbergCoverUploadProcessor.swift */,
 			);
 			path = Processors;
@@ -10607,7 +10607,7 @@
 				bg,
 				sk,
 			);
-			mainGroup = 29B97314FDCFA39411CA2CEA;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			productRefGroup = 19C28FACFE9D520D11CA2CBB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
